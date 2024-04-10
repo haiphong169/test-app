@@ -1,0 +1,13 @@
+user1@test.com
+user1pass
+
+todo:
+- tao viewmodel cho cac man signin, signup
+
+todo:
+- webview
+- chinh home thanh explore
+- ca nhan hoa bang cach prompt nguoi dung nhap note
+- phai co anh trong note
+- 2 nguoi khong duoc cung dat mot o lich
+- wednesday -> WED, chu to
