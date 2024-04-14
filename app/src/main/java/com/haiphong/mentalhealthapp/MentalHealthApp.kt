@@ -86,7 +86,7 @@ fun MentalHealthApp(
     } else if (introState.status == "done") {
         NavHost(
             navController = navController,
-            startDestination = when (introState.userType) {
+            startDestination = when (UserType.Customer) {
                 UserType.None -> Route.Intro.name
                 UserType.Customer -> "content"
                 UserType.Specialist -> "specialistHome"
